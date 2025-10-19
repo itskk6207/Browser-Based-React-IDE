@@ -34,6 +34,9 @@ CipherStudio is a powerful, browser-based IDE for writing, running, and saving R
 - **File Storage**: AWS S3
 - **Authentication**: JWT
 
+## Live Preview
+[Click here to preview the project](https://browser-based-react-ide.vercel.app/)
+
 ## Getting Started
 
 ### Prerequisites
